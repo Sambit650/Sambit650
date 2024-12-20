@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40">, I'm Sambit</h1>
-<h3 align="center"> iOS Developer</h3>
+<h4 align="center">Welcome to my GitHub profile! I'm a passionate  iOS Developer always eager to learn and explore new technologies.</h4>
 </p>
 
 <br>
