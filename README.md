@@ -1,22 +1,37 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40">, I'm Sambit</h1>
-<h4 align="center">Welcome to my GitHub profile! I'm a passionate  iOS Developer always eager to learn and explore new technologies.</h4>
-</p>
+# Hi, I'm Sambit 👋
 
-<br>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sambit650&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sambit's Github Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambit650&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="My Github Stats">
-</p>
+**iOS Developer** building polished, performant and privacy-minded apps for iPhone.
+I care about clean architecture, thoughtful UX and shipping software that works.
 
-## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sambit-das-54769416a)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/das_sambit650)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sambit650)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sambit-das-54769416a)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sambit650)
-[![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/das_sambit650)
+## What I do
 
-Thank you for visiting my profile!
-</div>
+- Native iOS development with SwiftUI and UIKit
+- Scalable architecture: MVVM, modular design, depend
+- Swift Concurrency, Combine and performance optimisation
+- On-device intelligence and privacy-first data handl
+- Testing, CI/CD and developer experience
+
+## Tech stack
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84Fwift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?st&logoColor=white)
+![SwiftData](https://img.shields.io/badge/SwiftData-444444?style=flat-square&logo=apple&logoColor=white)
+![Core Data](https://img.shields.io/badge/Core_Data-4go=apple&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub-square&logo=githubactions&logoColor=white)
+
+## Currently
+
+- Exploring the latest iOS APIs, on-device ML and App
+- Deepening my work on app architecture and accessibility
+
+## GitHub activity
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sambit650&show_icons=true&theme=transparent&hide_border=true&titl
+e_color=0A84FF&icon_color=0A84FF)](https://github.com
